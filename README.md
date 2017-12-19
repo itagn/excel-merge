@@ -24,6 +24,7 @@ const arr = ['one.xlsx', 'two.xlsx'], tag = '姓名';
 merge(arr, tag);
 ```
 以下为标识，不一定是'姓名'，也可以选择其他的
+
 ![标识](https://github.com/itagn/excel-merge/blob/master/title.png)
 
 ## 功能以及注意事项说明
