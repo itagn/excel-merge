@@ -1,6 +1,6 @@
 {
     "name": "excel-merge",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "nodejs to merge excel",
     "main": "index.js",
     "scripts": {
