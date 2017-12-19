@@ -1,0 +1,28 @@
+{
+    "name": "excel-merge",
+    "version": "1.0.0",
+    "description": "nodejs to merge excel",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/itagn/excel-merge.git"
+    },
+    "keywords": [
+        "node",
+        "merge",
+        "excel"
+    ],
+    "author": "itagn",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/itagn/excel-merge/issues"
+    },
+    "homepage": "https://github.com/itagn/excel-merge#readme",
+    "dependencies": {
+        "node-xlsx": "^0.11.2"
+    }
+}
+   
