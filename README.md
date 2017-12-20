@@ -47,11 +47,11 @@ merge(arr, tag, 'mutiple');
 
 表一，标识设置为'姓名'
 
-![标识1](https://github.com/itagn/excel-merge/blob/master/title1.png)
+![标识1](https://github.com/itagn/excel-merge/blob/master/img/title1.png)
 
 表二，标识设置为'学号'
 
-![标识2](https://github.com/itagn/excel-merge/blob/master/title2.png)
+![标识2](https://github.com/itagn/excel-merge/blob/master/img/title2.png)
 
 ## 函数说明
 
