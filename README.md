@@ -28,7 +28,7 @@ const num = 2;
 merge(arr, tag, 'simple', 2);
 ```
 
-mutiple操作
+<!-- mutiple操作
 
     创建mutiple.js，内容如下，然后执行node mutiple.js
 
@@ -41,7 +41,7 @@ const arr = ['one.xlsx', 'two.xlsx'];
 const tag = ['姓名', '学号'];
 
 merge(arr, tag, 'mutiple');
-```
+``` -->
 
 以下为标识，不一定是'姓名'，也可以选择其他的
 
@@ -67,12 +67,13 @@ merge(arr, tag, 'mutiple');
     simple操作
     1.合并多个excel表到一个新的excel表
     2.只合并所有excel表的具体一页
-    2.不影响源文件
+    3.不影响源文件
 
     mutiple操作
     1.合并多个excel表到一个新的excel表
     2.合并所有excel表的所有页
-    2.不影响源文件
+    3.不影响源文件
+    4.mutiple操作存在bug，暂时关闭
 
 ### 目录结构
 
@@ -82,6 +83,7 @@ merge(arr, tag, 'mutiple');
 ### 注意事项
 
     目前只支持xlsx表
+    mutiple操作存在bug，暂时关闭
     每一页必须有一个标识，标识最好具有唯一性
     标识选择excel表第一行标题中的随意一个
     excel表内容尽量不要冲突，如果发生冲突，以靠前的表为标准
