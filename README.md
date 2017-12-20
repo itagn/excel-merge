@@ -22,7 +22,7 @@ simple操作
 //  只合并所有excel表的第二页
 const merge = require('excel-merge');
 const arr = ['one.xlsx', 'two.xlsx']; 
-const tag = ['姓名', '工号'];
+const tag = ['姓名', '学号'];
 const num = 2;
 
 merge(arr, tag, 'simple', 2);
@@ -38,7 +38,7 @@ mutiple操作
 //  合并所有excel表的所有页
 const merge = require('excel-merge');
 const arr = ['one.xlsx', 'two.xlsx']; 
-const tag = ['姓名', '工号'];
+const tag = ['姓名', '学号'];
 
 merge(arr, tag, 'mutiple');
 ```
