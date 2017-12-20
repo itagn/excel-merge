@@ -43,7 +43,6 @@ const tag = ['姓名', '工号'];
 merge(arr, tag, 'mutiple');
 ```
 
-
 以下为标识，不一定是'姓名'，也可以选择其他的
 
 表一，标识设置为'姓名'
@@ -56,7 +55,7 @@ merge(arr, tag, 'mutiple');
 
 ## 函数说明
 
-    这里提供了一个函数，参数为(arr, tag, type)
+    这里提供了一个函数，参数为(arr, tag, type, num)
     arr: <Array> 本地源多个excel文件的相对路径或者绝对路径组成的数组，必填
     tag: <Array> 每页excel标识符号组成的数组，作为多个excel表多页合并的依据，必填
     type: <String> 'simple'和'mutiple'，默认为'simple'，为'simple'时需要带最后一个参数
