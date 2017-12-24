@@ -86,7 +86,7 @@ merge.dir(path, tag, 'mutiple');
 
 ![excel2.xlsx](https://github.com/itagn/excel-merge/raw/master/img/excel2.png)
 
-输出dest.xlsx （Sheet 2）
+输出dest.xlsx （Sheet 1）
 
 ![dest.xlsx](https://github.com/itagn/excel-merge/raw/master/img/dest.png)
 
