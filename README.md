@@ -80,11 +80,15 @@ merge.dir(path, tag, 'mutiple');
 
 表一 第一页（Sheet 1）
 
-![标识1](https://github.com/itagn/excel-merge/blob/master/img/title1.png)
+![标识1](https://github.com/itagn/excel-merge/blob/master/img/excel1.png)
 
 表二 第一页（Sheet 1）
 
-![标识2](https://github.com/itagn/excel-merge/blob/master/img/title2.png)
+![标识2](https://github.com/itagn/excel-merge/blob/master/img/excel2.png)
+
+输出dest.xlsx （Sheet 2）
+
+![标识2](https://github.com/itagn/excel-merge/blob/master/img/dest.png)
 
 ## 函数说明
 
