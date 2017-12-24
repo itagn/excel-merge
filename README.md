@@ -124,8 +124,8 @@ merge.dir(path, tag, 'mutiple');
 
 ## 注意事项
 
-    目前只支持xlsx表
-    所有excel表页数相同，否则mutiple只能合并所有表格共有的前n页（Sheet n）
+    目前只支持xlsx文件格式
+    所有excel表页数（Sheet n）相同，否则mutiple只能合并所有表格共有的前n页（Sheet n）
     每一页（Sheet n）必须有一个相同标识，标识最好具有唯一性
     标识选择excel表第一行标题中的随意一个
     excel表内容尽量不要冲突，如果发生冲突，以靠前的表为标准
