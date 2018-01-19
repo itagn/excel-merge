@@ -1,9 +1,15 @@
-## excel-merge
+﻿## excel-merge
 :rocket: nodejs合并多个excel表
 
     author: 蔡东
     desc: excel文档合并
     createdOn: 2017/12/18
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/excel-merge"><img src="https://img.shields.io/npm/dm/excel-merge.svg" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/excel-merge"><img src="https://img.shields.io/npm/v/excel-merge.svg" alt="Version"></a>
+  <a href="https://www.npmjs.com/package/excel-merge"><img src="https://img.shields.io/npm/l/excel-merge.svg" alt="License"></a>
+</p>
 
 ## 操作说明 
 配置环境，安装node，官网下载 [node](https://nodejs.org/en/)
@@ -134,3 +140,5 @@ merge.dir(path, tag, 'mutiple');
 
 [1]: https://weibo.com/p/1005053782707172
 [2]: https://github.com/itagn
+
+
